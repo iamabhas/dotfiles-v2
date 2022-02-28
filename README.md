@@ -2,27 +2,27 @@
 
 ### POLYBAR :
 
-![i3](https://raw.githubusercontent.com/iamabhas/dotfiles/main/screenshots/polybari3.png)
-
-### XFCE :
-
-![xfce](https://raw.githubusercontent.com/iamabhas/dotfiles/main/screenshots/screenshot1.png)
-
-### NEOVIM :
-
-![neovim](https://raw.githubusercontent.com/iamabhas/dotfiles/main/screenshots/vim.png)
+![i3](https://raw.githubusercontent.com/iamabhas/dotfiles-v2/main/screenshots/polybar.png)
 
 ### ROFI :
 
-![rofi](https://raw.githubusercontent.com/iamabhas/dotfiles/main/screenshots/rofi.png)
+![rofi](https://raw.githubusercontent.com/iamabhas/dotfiles-v2/main/screenshots/rofi.png)
 
-### RANGER + NVIM :
+### NEOVIM :
 
-![ranger+nvim](https://raw.githubusercontent.com/iamabhas/dotfiles/main/screenshots/nvimRanger.png)
+![neovim](https://raw.githubusercontent.com/iamabhas/dotfiles-v2/main/screenshots/vim.png)
 
-### FIREFOX :
+### FETCH :
 
-![firefox](https://raw.githubusercontent.com/iamabhas/dotfiles/main/screenshots/firefoxCss.png)
+![fetch](https://raw.githubusercontent.com/iamabhas/dotfiles-v2/main/screenshots/fetch.png)
+
+### RANGER :
+
+![ranger](https://raw.githubusercontent.com/iamabhas/dotfiles-v2/main/screenshots/ranger.png)
+
+### PCMANFM :
+
+![file-manager](https://raw.githubusercontent.com/iamabhas/dotfiles-v2/main/screenshots/icons.png)
 
 ### Fonts to Download  [Iosevka NF](https://www.nerdfonts.com/font-downloads)
 
