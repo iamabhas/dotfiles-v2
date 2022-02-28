@@ -1,4 +1,6 @@
-# i3 , polybar , xfce setup:
+# i3 , polybar setup with catppuccin theming:
+
+### All fetch , prompt and other configs present in this repo 👉 [dotfiles-v1](https://github.com/iamabhas/dotfiles)
 
 ### POLYBAR :
 
